@@ -37,7 +37,7 @@
         <junit.itReportFolder>${project.testresult.directory}/integrationTest</junit.itReportFolder>
         <palantir-java-format.version>2.72.0</palantir-java-format.version>
         <datasource-micrometer-spring-boot.version>1.1.2</datasource-micrometer-spring-boot.version>
-        <frontend-maven-plugin.version>1.15.0</frontend-maven-plugin.version>
+        <frontend-maven-plugin.version>1.15.1</frontend-maven-plugin.version>
         <frontend-maven-plugin.nodeVersion>v22.14.0</frontend-maven-plugin.nodeVersion>
         <frontend-maven-plugin.npmVersion>10.9.2</frontend-maven-plugin.npmVersion>
         <dockerImageName>sivaprasadreddy/${project.artifactId}</dockerImageName>
