@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>24</java.version>
-        <spring-modulith.version>1.4.2</spring-modulith.version>
+        <spring-modulith.version>1.4.3</spring-modulith.version>
         <spotless.version>2.46.1</spotless.version>
         <commonmark.version>0.25.1</commonmark.version>
         <htmx-spring-boot.version>4.0.1</htmx-spring-boot.version>
