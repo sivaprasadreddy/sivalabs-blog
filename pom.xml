@@ -29,7 +29,7 @@
         <jacoco-maven-plugin.version>0.8.13</jacoco-maven-plugin.version>
         <jacoco.minimum.coverage>70%</jacoco.minimum.coverage>
         <properties-maven-plugin.version>1.2.1</properties-maven-plugin.version>
-        <sonar-maven-plugin.version>5.1.0.4751</sonar-maven-plugin.version>
+        <sonar-maven-plugin.version>5.2.0.4988</sonar-maven-plugin.version>
         <palantir-java-format.version>2.72.0</palantir-java-format.version>
         <datasource-micrometer-spring-boot.version>1.1.2</datasource-micrometer-spring-boot.version>
         <frontend-maven-plugin.version>1.15.1</frontend-maven-plugin.version>
