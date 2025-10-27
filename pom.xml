@@ -22,7 +22,7 @@
         <spotless.version>2.46.1</spotless.version>
         <commonmark.version>0.27.0</commonmark.version>
         <htmx-spring-boot.version>4.0.1</htmx-spring-boot.version>
-        <htmx.version>2.0.7</htmx.version>
+        <htmx.version>2.0.8</htmx.version>
         <jquery.version>3.7.1</jquery.version>
         <font-awesome.version>6.7.2</font-awesome.version>
         <alpinejs.version>3.15.0</alpinejs.version>
